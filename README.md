@@ -2,9 +2,9 @@
 - [English](#English)
 - [Русский](#Русский)
 # English
-# Blum - Auto Claim Bot
+# Tonxdao - Auto Claim Bot
 
-🔗 **Referral Link**: [Blum](https://t.me/blum/app?startapp=ref_9yV9Sg3ZGl)
+🔗 **Referral Link**: [Tonxdao](https://t.me/blum/app?startapp=ref_9yV9Sg3ZGl)
 
 ## 📢 Telegram Group
 
@@ -19,16 +19,15 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 | -------------- | ------ | ------------------------------------------ |
 | Auto Check-in  | On/Off | Daily login to get points and game tickets |
 | Auto Do Task   | On/Off | Complete tasks                             |
-| Auto Claim Ref | On/Off | Claim point from ref                       |
-| Auto Farm      | On/Off | Claim and Start farming points             |
-| Auto Play Game | On/Off | Play drop game to get more points          |
+| Auto Farm	  | On/Off | Farm points based on available energy                      |
+
 
 ## 🧑‍🔧 How to install in Linux
 #Linux
 ```shell
 apt install -y git python3 python3-pip
-git clone https://github.com/secretniy/blum-bot.git
-cd blum-bot/
+git clone https://github.com/secretniy/tonxdao-bot.git
+cd tonxdao-bot/
 python3 -m pip install -r requirements.txt --break-system-packages
 ```
 Enter you (`query_id=... /user=...`) in file data.txt. Each new token from a new line.
@@ -59,12 +58,12 @@ To change a config file in bash use the command `nano config.json`
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/secretniy/blum-bot.git
+   git clone https://github.com/secretniy/tonxdao-bot.git
    ```
 
-3. goto blum-bot directory
+3. goto tonxdao-bot directory
    ```
-   cd blum-bot
+   cd tonxdao-bot
    ```
 
 4. install the require library
@@ -118,9 +117,9 @@ socks5://user:pass@127.0.0.1:6969
 
 
 # Русский
-# Blum - Автоматический бот
+# Tonxdao - Автоматический бот
 
-🔗 **Реферальная ссылка**: [Blum](https://t.me/blum/app?startapp=ref_9yV9Sg3ZGl)
+🔗 **Реферальная ссылка**: [Tonxdao](https://t.me/blum/app?startapp=ref_9yV9Sg3ZGl)
 
 ## 📢 Группа в Telegram
 
@@ -135,16 +134,15 @@ socks5://user:pass@127.0.0.1:6969
 | -------------- | ------ | ------------------------------------------ |
 | Авто Check-in | Вкл./Выкл. | Ежедневный вход для получения очков и игровых билетов |
 | Автоматическое выполнение задач | Вкл./Выкл. | Выполнение задач |
-| Автоматическое получение прибыли рефералов | Вкл./Выкл. | Получить балл от реферала |
-| Автоматическая ферма | Вкл/Выкл | Получить и начать фармить баллы |
-| Автоматическая игра | Вкл/Выкл | Играйте в игру drop, чтобы получить больше баллов |
+| Автоматический фарм | Вкл./Выкл. | Фарм очков если есть энергия |
+
 
 ## 🧑‍🔧 Как установить в Linux
 #Linux
 ```shell
 apt install -y git python3 python3-pip
-git clone https://github.com/secretniy/blum-bot.git
-cd blum-bot/
+git clone https://github.com/secretniy/tonxdao-bot.git
+cd tonxdao-bot/
 python3 -m pip install -r requirements.txt --break-system-packages
 ```
 Введите (`query_id=... /user=...`) в файл data.txt. Каждый новый токен с новой строки.
@@ -174,12 +172,12 @@ git site : [https://git-scm.com/](https://git-scm.com/)
 
 2. Клонируйте этот репозиторий
 ```shell
-git clone https://github.com/secretniy/blum-bot.git
+git clone https://github.com/secretniy/tonxdao-bot.git
 ```
 
-3. Перейдите в каталог blum-bot
+3. Перейдите в каталог tonxdao-bot
 ```
-cd blum-bot
+cd tonxdao-bot
 ```
 
 4. Установите зависимости
