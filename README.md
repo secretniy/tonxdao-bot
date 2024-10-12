@@ -4,7 +4,7 @@
 # English
 # Tonxdao - Auto Claim Bot
 
-🔗 **Referral Link**: [Tonxdao](https://t.me/blum/app?startapp=ref_9yV9Sg3ZGl)
+🔗 **Referral Link**: [Tonxdao](https://t.me/tonxdao_bot?start=ref_948720889)
 
 ## 📢 Telegram Group
 
@@ -119,7 +119,7 @@ socks5://user:pass@127.0.0.1:6969
 # Русский
 # Tonxdao - Автоматический бот
 
-🔗 **Реферальная ссылка**: [Tonxdao](https://t.me/blum/app?startapp=ref_9yV9Sg3ZGl)
+🔗 **Реферальная ссылка**: [Tonxdao](https://t.me/tonxdao_bot?start=ref_948720889)
 
 ## 📢 Группа в Telegram
 
